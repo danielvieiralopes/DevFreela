@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "DevFreela.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DevFreela.Core/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "DevFreela.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Daniel\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\PROJETOS\\.Net Direto ao Ponto - LuisDev\\DevFreela_CLI\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "D:\\PROJETOS\\.Net Direto ao Ponto - LuisDev\\DevFreela_CLI\\DevFreela.Core\\DevFreela.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
