@@ -27,3 +27,7 @@ D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\obj\Debug
 D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\obj\Debug\net6.0\ref\DevFreela.API.dll
 D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\obj\Debug\net6.0\DevFreela.API.pdb
 D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\obj\Debug\net6.0\DevFreela.API.genruntimeconfig.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.pdb
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.pdb

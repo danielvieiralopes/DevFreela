@@ -1,0 +1,17 @@
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\ref\DevFreela.Application.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.AssemblyReference.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb

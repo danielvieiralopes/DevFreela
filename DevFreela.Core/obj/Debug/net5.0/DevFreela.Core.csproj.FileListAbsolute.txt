@@ -1,0 +1,12 @@
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
+D:\PROJETOS\.Net Direto ao Ponto - LuisDev\DevFreela_CLI\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
